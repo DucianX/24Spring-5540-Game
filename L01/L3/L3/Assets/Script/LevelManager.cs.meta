@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 40c2d082bddd8cc498586feef1538da0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - timerText: {instanceID: 0}
+  - scoreText: {instanceID: 0}
+  - messageText: {instanceID: 0}
+  - winSFX: {fileID: 8300000, guid: d59c7ac5e2b80764dbf174510e8cc08b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
